@@ -1,0 +1,1648 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amendment up to date :- (Sindh Act No. XXIX of 2023) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SINDH JUDICIAL ACADEMY, KARACHI 
+ 
+Title:   
+Sindh Consumer Protection Act, 2014 and Sindh Consumer 
+Protection Rules, 2017 
+ 
+Amendment up to date  
+ 
+ 
+Compiled & Proof Reading by:  
+Mr. Nizam-ud-din (Librarian)  
+ 
+Amended by:  
+Mr. Raheel Zaheer (Library Attendant)  
+ 
+ 
+Year of Publication: 
+2024 
+ 
+All rights reserved by the Sindh Judicial Academy, Karachi 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sindh Consumer Protection Act, 2014 
+Contents 
+PART-I 
+PRELIMINARY 
+1.          Short title, extent commencement .................................................................................... 5 
+2.          Definitions ........................................................................................................................... 5 
+3.         Act not in derogation of any other law. .......................................................................... 10 
+PART-II 
+LIABILITY ARISING FROM DEFECTIVE PRODUCTS 
+4.          Liability for defective products. ..................................................................................... 10 
+5.          Defective in construction or composition ..................................................................... 10 
+6.          Defective in design ........................................................................................................... 10 
+7.          Defective because of inadequate warning ..................................................................... 11 
+8.          Defective because of nonconformity to express warranty .......................................... 11 
+9.          Proof of manufacturer's knowledge. .............................................................................. 11 
+10. 
+Restriction on grant of damages ..................................................................................... 12 
+11. 
+Duty of disclosures ........................................................................................................... 12 
+12. 
+Prohibition on exclusions from liability ........................................................................ 12 
+PART-III 
+LIABILITY ARISING OUT OF DEFECTIVE AND FAULTY SERVICES 
+13. 
+Liability for faulty or defective services. ...................................................................... 12 
+14. 
+Standard of provision of services ................................................................................... 12 
+15. 
+Restriction on grant of damages ..................................................................................... 12 
+16. 
+Duty of disclosure............................................................................................................. 12 
+17. 
+Prohibition on exclusions from liability ........................................................................ 13 
+PART-IV 
+OBLIGATIONS OF MANUFACTURERS 
+18. 
+Prices to be exhibited at the business place .................................................................. 13 
+19. 
+Receipt to be issued to the purchaser. ............................................................................ 13 
+20. 
+Return and refund policy ................................................................................................. 13 
+PART-V 
+
+ 
+ 
+UNFAIR PRACTICES 
+21. 
+False, deceptive or misleading representation. ............................................................. 13 
+22. 
+Prohibition on bait advertisement ................................................................................... 14 
+PART-VI 
+THE POWERS OF THE AUTHORITY 
+23. 
+Powers of Authority ......................................................................................................... 14 
+24. 
+Powers of Government .................................................................................................... 15 
+PART-VII 
+CONSUMER PROTECTION COUNCIL 
+25. 
+Consumer Protection Council ......................................................................................... 15 
+PART-VIII 
+DISPOSAL OF CLAIMS AND ESTABLISHMENT OF CONSUMER COURTS 
+26. 
+Filing of Claims ................................................................................................................ 16 
+27. 
+Establishment of Consumer Courts ................................................................................ 16 
+28. 
+Jurisdiction of Consumer Courts .................................................................................... 16 
+29. 
+Settlement of Claims ........................................................................................................ 17 
+30. 
+Settlement at pretrial stage .............................................................................................. 17 
+31. 
+Procedure on receipts or complaint ................................................................................ 17 
+32. 
+Order of Consumer Court ................................................................................................ 19 
+33. 
+Penalties ............................................................................................................................. 20 
+34. 
+Appeal ................................................................................................................................ 20 
+35. 
+Finality of order ................................................................................................................ 20 
+36. 
+Dismissal of frivolous or vexatious claims ................................................................... 20 
+PART-IX 
+MISCELLANEOUS 
+37. 
+Aid to the Consumer Court. ............................................................................................ 20 
+38. 
+Immunity............................................................................................................................ 20 
+39. 
+Power to make rules. ........................................................................................................ 20 
+40. 
+Power to remove difficulties. .......................................................................................... 21 
+ 
+Sindh Consumer Protection Rules, 2017 
+ 
+1.         Short Title and Commencement ............................................................................. 22 
+2.         Definitions .............................................................................................................. 22 
+3.        Complaints Private Person to the Authority ............................................................ 22 
+4.        Cases to be Inquired into by Authority .................................................................... 23 
+
+ 
+ 
+5.        Procedure in Case of Defective Products ................................................................ 23 
+6.         Procedure in Case of Defective Services. ............................................................... 23 
+7.         Proof of Manufacture by the Authority. ................................................................. 24 
+8.         Support to Authority in Collection of Evidence. .................................................... 24 
+9.         Order of the Authority. ........................................................................................... 25 
+10.       Appeal against the Order of the Authority. ............................................................ 25 
+11.       Claims on Behalf of the Public. .............................................................................. 26 
+12.       Place of Sitting etc. ................................................................................................. 26 
+13.       Form of Claim. ....................................................................................................... 26 
+14.       Defence etc. ............................................................................................................ 27 
+15.       Analysis of the Product........................................................................................... 27 
+16.       Proof of Manufacture by the Court. ........................................................................ 27 
+17.       Order of the Court ................................................................................................... 28 
+18.       Appeal against the Order of the Court .................................................................... 28 
+19.       Constitution of the Provincial Council ................................................................... 28 
+20.       Terms and Conditions of Membership. .................................................................. 30 
+21.       Functions of the Council......................................................................................... 30 
+22.       Constitution of the District Councils ...................................................................... 31 
+23.       Functions of the District Councils. ......................................................................... 32 
+24.       Registration and Catogoriztaion of Laboratories.................................................... 33 
+25.       Public Disclosure. ................................................................................................... 33 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Amendment 11th August, 2023 
+ 
+PROVINCIAL ASSEMBLY OF SINDH 
+NOTIFICATION 
+KARACHI, THE 18TH MARCH, 2015 
+NO.PAS/Legis-B-13/2014- The Sindh Consumer Protection Bill, 2014 having been 
+passed by the Provincial Assembly of Sindh on 20th February, 2015 and assented to 
+by the Governor of Sindh on 16th March, 2015 is hereby published as an Act of the 
+Legislature of Sindh. 
+THE SINDH CONSUMER PROTECTION ACT, 2014. 
+SINDH ACT NO. XVII OF 2015. 
+AN 
+ACT 
+to provide and protect the rights and interests of consumers in the Province 
+of Sindh. 
+Preamble. Whereas, it is expedient to provide for protection and promotion 
+of the rights and interests of the consumers, speedy redress of consumer complaints 
+and for matters connected therewith; 
+ 
+PART-I 
+PRELIMINARY 
+ 
+ 
+It is hereby enacted as follows:- 
+ 
+1. Short title, extent commencement.  (1) This Act may be called the Sindh 
+Consumer Protection Act, 2014.  
+ 
+(2) It shall extend to whole of the Province of Sindh. 
+ 
+(3) It shall come into force at once. 
+2. Definitions. In this Act, unless there is anything repugnant in the 
+subject or context – 
+ 
+(a) 
+“Act" means the Sindh Consumer Protection Act, 2014; 
+(b) 
+“Advertisement” includes advertisement- 
+(i) 
+by all commercial communities of any kind 
+through any means including media; 
+(ii) 
+by display of notices, play cards or price lists; 
+(iii) 
+by means of banners, bill boards, cards, 
+catalogues, circulars, hand bills, labels neon 
+printing (on vehicles or other things), sign 
+boards, wall banners, wall chalking or other 
+documents or materials; 
+(iv) 
+by the exhibition of films, Jingles, paintings, 
+
+ 
+ 
+photographs or pictures; 
+(v) 
+by means of broadcasting, cable operation, 
+internet, short messaging service (SMS), 
+satellite 
+communication, 
+telecasting, 
+telecommunication or wireless communication; 
+and 
+(vi) 
+by 
+means 
+of 
+peddler 
+or 
+hawker 
+and 
+proclamation vocally or by loud speaker or 
+mega phones. 
+(c) 
+"Authority" means the Secretary or Director 
+General, Supply and Prices Department or any other 
+officer notified by Government. 
+(d) “Complainant” means:- 
+(i) 
+a consumer; or 
+(ii) 
+a voluntary consumer’s association; 
+(iii) 
+Government; and 
+(iv) 
+the council or a District Protection Council. 
+1[(dd) “Consumer Court” means the Consumer Protection 
+Court established under section 27;”; 
+(ddd) “complaint” shall have the same meaning as assigned to 
+it under clause (h) of section 2 of the Code of Criminal Procedure, 1898 
+(Act V of 1898);] 
+(e) 
+"Consumer" means a person or entity who- 
+(i) buys or obtain on lease any product for a consideration 
+and includes any user of such product but does not include 
+a person who obtains any product for resale or for any 
+commercial purpose; or 
+ 
+(ii) hires any service for a consideration and includes any 
+beneficiary of such services, 
+2[(ee) “claim” means the case of the consumer setup in the shape 
+of complaint;”.] 
+Explanation: For the purpose of sub-clause (i) "Commercial purpose" 
+does not include use by a consumer of products bought and used by 
+him only for the purpose of his livelihood as a self employed person. 
+(f) “Counterfeit” means made an exact in imitation of 
+something with the intention to deceive or defraud. 
+(g) 
+"damage" means all damages caused by a product of 
+service including damage to the product itself and 
+economic loss arising from deficiency in or loss of use 
+of the product or service; 
+ 
+1 New Clause Inserted by Sindh Act No. XXIX of 2023 S. 2 (i) dated 11th August, 2023 
+2 New Clause Inserted by Sindh Act No. XXIX of 2023 S. 2 (ii) dated 11th August, 2023 
+
+ 
+ 
+(h) 
+"Entity" means an organization that has a legal identity 
+apart from its members; 
+(i) 
+“False or Misleading Representation” includes any 
+statement made by a businessman or person, in 
+commerce or trade, in connection with 
+the supply or possible supply of goods or services or 
+with the promotion for the supply or use of goods or 
+services, whether by omission or commission, orally or 
+in writing or by chalking on walls or through sign 
+boards or neon signs or by distributing pamphlets or by 
+publication in any manner, including electronic media 
+whereby such person, or businessman- 
+(i) 
+makes, applies or implies a trade description 
+that is false or misrepresentative; 
+(ii) 
+offers gifts, prizes or other free items with the 
+intention of not providing them, or of not 
+providing them as offered; 
+(iii) 
+demands 
+or 
+accept 
+payment 
+or 
+other 
+consideration for goods or service from a 
+consumer or prospective consumer where, if at 
+the time of the acceptance, such person, or 
+businessman does not intend to supply the 
+goods or services; 
+(iv) 
+intends to supply goods or services materially 
+different from the goods or services in respect 
+of which the payment or other consideration is 
+accepted. 
+(v) 
+is aware that he will not able to supply the goods 
+or services within the period specified by him; 
+(vi) 
+falsely represents that goods or services, as the 
+case may be, are of a particular kind standard, 
+quality, grade, quantity composition, style of 
+particulars previous use or that they are supplied 
+by any particular person or by any person of a 
+particular 
+profession, 
+reconditioned 
+or 
+refurbished at a particular time; 
+(vii) 
+falsely represents that goods are new, or that 
+they are reconditioned, or refurbished or that 
+they were manufactured, processed, produced, 
+reconditioned or refurbished at a particular 
+time; 
+(viii) falsely represents that good or services have any 
+sponsorships, 
+approval, 
+affiliation, 
+endorsement, 
+performance 
+characteristics, 
+accessories, uses, or benefits; 
+(ix) 
+falsely represents the price of any goods or 
+services; 
+(x) 
+falsely represents the existence, exclusion of 
+effect of any condition, warranty, guarantee, 
+right, or remedy; 
+
+ 
+ 
+(xi) 
+falsely represents the place of origin of goods; 
+(xii) 
+falsely represents that because of some defect in 
+a consumer home, health, safety, or lives of the 
+consumer of his or her family are in danger if 
+the product or services are not purchased, when 
+in fact the defect does not exist or the product or 
+services would not remove the danger; 
+(xiii) falsely represents 
+causing a probability of 
+confusion or of misunderstanding with respect 
+to the authority to a salesperson, representative, 
+or agent to negotiate the final terms of a 
+transaction; 
+(xiv) falsely represents 
+causing a probability of 
+confusion or of misunderstanding as to the legal 
+rights, obligations or remedies of a party 
+to 
+transaction; 
+(xv) 
+falsely represents that a consumer will receive 
+goods or services “free” or “without charge” or 
+similar 
+words 
+without 
+clearly 
+and 
+conspicuously disclosing the conditions, terms, 
+or pre-requisites requirements to be fulfilled by 
+the consumer in order to avail such goods or 
+services; 
+(xvi) falsely represents the availability of facilities 
+for the repair of goods and supply of spare parts 
+for goods; and 
+(xvii) falsely represents that a product or package is 
+disagreeable, 
+biodegradable, 
+or 
+photo 
+degradable; 
+(j) 
+"Government" means the Government of Sindh; 
+(k) 
+"Laboratory" means a laboratory established or 
+recognized by Consumer Protection Council and 
+includes 
+any 
+such 
+laboratory 
+or 
+organization 
+established by or under any law for the time being in 
+force, which is maintained, financed, aided or 
+recognized by Government for carrying out analysis or 
+test of any goods with a view to determine whether such 
+goods suffer from any defect; 
+(l) 
+"Manufacturer" includes a person or entity who: 
+(i) is in the business of manufacturing a product for 
+purposes of trade or commerce; 
+(ii) labels a product as his own or himself as the 
+manufacture of the product; 
+(iii)as a seller exercises control over the design, 
+construction or quality of the product that causes 
+damages; 
+(iv) assembles a product by incorporating into his 
+
+ 
+ 
+product a component or part manufactured by 
+another manufacturer; and 
+(v) is a seller of a product of a foreign manufacturer and 
+assumes or administers warranty obligations of the 
+product, or is affiliated with the foreign 
+manufacturer by way or partial or complete 
+ownership or control; or modifies or prepares the 
+product for sale or distribution; 
+(m) 
+"Manufacturing a product" means producing, 
+fabricating, constructing, designing, remanufacturing, 
+reconditioning or refurbishing a product; 
+ 
+(n) 
+“Product" has the same meaning as assigned to the 
+word "goods" in the Sale of Goods Act, 1930, and 
+includes products which have been subsequently 
+incorporated into another product or an immovable but 
+does not include animals or plants or natural fruits and 
+other raw products, in their natural state, that are 
+derived from animals or plants; 
+(o) 
+"Reasonably” 
+anticipated alteration or 
+modification" means a change in a product that a 
+product manufacturer should reasonably except to be 
+made by an ordinary person in the same or similar 
+circumstances and a change arising from ordinary wear 
+or tear but does not include— 
+(i) changes to or in .a product because the product does 
+not receive reasonable care and maintenance; or 
+(ii) alteration, modification or removal of an otherwise 
+adequate warning; or 
+(iii)the failure of the seller to provide an adequate 
+warning to the consumer where the same had been 
+provided by the manufacturer and he could do no 
+more; 
+(p) "Reasonably anticipated use" means a use or handling 
+of a product that the product manufacturer should 
+reasonably except of an ordinary person in the same or 
+similar circumstances; and 
+(q) "Services" includes the provision of any kind of 
+facilities which includes all services such as 
+communication etc. or advice or assistance such as 
+provision of medical, legal or engineering services but 
+does not include- 
+(i) the rendering of any service under a contract 
+service; 
+
+ 
+ 
+(ii) a service, the essence of which is to deliver 
+judgment by a Court of law or Arbitrator; 
+(r) “Trade” means a conduct of a business providing goods, 
+moveable property, or services primarily for personal, 
+domestic family or household purpose. 
+3. 
+Act not in derogation of any other law. The provisions of this 
+Act shall be in addition to and not in derogation of the provisions of any 
+other law for the time being in force. 
+PART-II 
+LIABILITY ARISING FROM DEFECTIVE 
+PRODUCTS 
+4. 
+Liability for defective products. (1) The manufacturer of a 
+product shall be liable to a consumer for damages proximately caused 
+by, a characteristic of the product that renders the product defective 
+when such damage arose from a reasonably anticipated use of the 
+product by a consumer. 
+ 
+(2) A product shall be defective only if- 
+(a) it is defective in construction or 
+composition as provided in 
+section 5; 
+(b) 
+it is defective in design as provided in section 6; 
+(c) 
+it is defective because as adequate warning has been 
+given as provided in section 7; and 
+(d) 
+it is defective because it does not conform to an express 
+warranty of the manufacturer as provided in section 8. 
+5. 
+Defective in construction or composition. A product shall be 
+defective in construction or composition of, at the time the product was 
+manufactured, a material deviation was made from the manufactures 
+own specifications, whether known to the consumer or not. 
+ 
+6. 
+Defective in design. (1) A product shall be defective in design 
+if, at the time the product left its manufacturer's control- 
+ 
+ 
+(a) 
+there existed an alternative design for the product that 
+was capable of preventing the damage to a consumer; 
+and 
+(b) 
+the likelihood and gravity of damage outweighed the 
+burden. 
+(2) When the manufacturer has used reasonable care to provide 
+adequate warning to the users or handlers of the product, it shall be 
+considered in evaluating the likelihood of damage arising from the 
+design of a product. 
+
+ 
+ 
+7. 
+Defective because of inadequate warning.  (1) A product 
+shall be defective if an adequate warning about the product that it 
+possessed a characteristic that could cause damage, has not been 
+provided at the time the product left its manufacturer's control or the 
+manufacturer has failed to use reasonable care to provide an adequate 
+warning of such characteristic' and its danger to users and handlers of 
+the product: 
+Provided that a manufacturer shall not be required to provide 
+an adequate warning about his product when- 
+a) the ordinary user or handler of the product could know, with 
+the ordinary knowledge common to the community, that the 
+product has dangerous characteristic which could cause 
+damage; or 
+b) the user or handler of the product already knows or should be 
+reasonably expected to know that the product has 
+characteristics which were dangerous and could cause damage. 
+(2) A manufacturer of a product who, after the product has left his 
+control, acquires knowledge about the dangerous characteristics of the 
+product that could cause damage, or who would have acquired such 
+knowledge had he acted as a reasonably prudent manufacturer, shall be 
+liable for damage caused by his subsequent failure to use reasonable 
+care to provide an adequate warning of such characteristic and its 
+danger to users and handlers of the product. 
+8. 
+Defective because of nonconformity to express warranty. A 
+product shall be defective when it does not conform to an express 
+warranty made at any time by the manufacturer about the product if the 
+express warranty has induced the claimant to use the product and the 
+claimant's damage was proximately caused because the express 
+warranty was untrue. 
+9. 
+Proof of manufacturer's knowledge. (1) Notwithstanding 
+anything contained in section 6, a manufacturer of a product shall not 
+be liable for damage proximately caused by a characteristic of product's 
+design if the manufacturer proves that at the time the product left his 
+control- 
+(a) 
+he did not know and in the light of the then existing and 
+reasonably available scientific and technological knowledge, could not 
+have known the design characteristic that caused the damage or the 
+danger of such characteristic; or 
+(b) 
+he did not know and, in the light of the then existing and 
+reasonably available scientific and technological knowledge, could not 
+have known of the alternative design identified by the consumer under 
+section 6 (1); or 
+(c) 
+the alternative design identified by the consumer under 
+section 6(1) was not feasible in the light of the then existing and 
+reasonably available scientific and technological knowledge or then 
+existing economic practicability. 
+(2) Notwithstanding anything contained in Section 7 (1) or 
+7(2), a manufacturer of a product shall not be liable for damage if the 
+manufacturer proves that, at the time the product left his control, he did 
+
+ 
+ 
+not know and, in the light of the then existing and reasonably available 
+scientific and technological knowledge, could not have known of the 
+characteristic that caused the damage or the danger of such 
+characteristic. 
+ 
+10. 
+Restriction on grant of damages. Where the consumer has not 
+suffered any damages from the product except the loss of utility, the 
+manufacturer shall not be liable for any damages except a return of the 
+consideration or a part thereof and the costs. 
+ 
+11. 
+Duty of disclosures. (1) Where the nature of the product is such 
+that the disclosure of its competent parts, ingredients, quality, or date 
+of manufacture and expiry is material to the decision of the consumer 
+to enter into a contract for sale, the manufacturer shall disclose the 
+same. 
+(2) Notwithstanding anything contained in sub- section (1), 
+Government may, by general or special order, require such disclosure 
+in any particular cases. 
+12. 
+Prohibition on exclusions from liability. The liability of a 
+person by virtue of this part to a consumer who has suffered damage 
+shall not be limited or excluded by the terms of any contract or by any 
+notice. 
+PART-III 
+LIABILITY ARISING OUT OF DEFECTIVE AND FAULTY 
+SERVICES 
+ 
+13. 
+Liability for faulty or defective services. A provider of 
+services shall be liable to a consumer for damages proximately caused 
+by the provision of service that have caused damage. 
+14. 
+Standard of provision of services. (1) Where the standard of 
+provision of a service is regulated by a special law, provincial or federal 
+standard of services shall be deemed to be the standard laid down by 
+such special law. 
+ 
+(2) 
+Where the standard of a service has not been provided 
+in law or by, the professional or trade body concerned, the standard 
+shall be that which at the time of the provision of the service, a 
+consumer could reasonably expect to obtain at that time in Pakistan. 
+ 
+15. 
+Restriction on grant of damages. Where the consumer has not 
+suffered any damages from the provision of service damages except 
+lack of benefit, the service provider shall not be liable for any damages 
+except a return of the consideration or a part thereof and the costs. 
+ 
+16. 
+Duty of disclosure. (1) Where the nature of the service is such 
+that the disclosure of the capabilities or the qualifications of the 
+provider of the service or quality of the products that he intends to use 
+for provision of the service is material to the decision of the consumer 
+to enter into a contract for provision of services, the provider of 
+services shall disclose the same. 
+ 
+ 
+(2) Notwithstanding anything contained in sub-section (1), 
+Government may, by general or special order, require such disclosure 
+in any case. 
+ 
+
+ 
+ 
+17. 
+Prohibition on exclusions from liability. The liability of a 
+person by virtue of this Part to a person who has suffered damage shall 
+not be limited or excluded by the terms of any contract or by any notice. 
+ 
+PART-IV 
+OBLIGATIONS OF MANUFACTURERS 
+ 
+18. 
+Prices to be exhibited at the business place. Unless a price 
+catalogue is available for issue to consumer, the manufacturer or trade 
+shall display prominently in his shop or display-centre a notice 
+specifying the retail or wholesale price, as the case may be, of every 
+goods available for sale in that shop or display-centre. 
+ 
+19. 
+Receipt to be issued to the purchaser. Every manufacturer or 
+trader who sells any goods shall issue to the purchaser a receipt 
+showing: 
+a) the date of sale; 
+b) description of goods sold; 
+c) the batch number of the product, the original printed retail 
+price, date of manufacture and date of expiry. 
+d) the quantity and price of the goods, and 
+e) the name and address of the seller. 
+20. 
+Return and refund policy. Return and refund policy of a seller 
+shall be disclosed to the buyer clearly before the transaction is 
+completed by means of assign at the point of purchase. 
+ 
+PART-V 
+UNFAIR PRACTICES 
+ 
+21. 
+False, deceptive or misleading representation. No person 
+shall make a false, deceptive or misleading representation that--- 
+a) the products are of a particular kind, standard, quality, grade, 
+quantity, composition, style or model; 
+b) the products have particular history or particular 
+previous use; 
+c) the services are of a particular kind, standard or quality; 
+d) the services are provided - by a person having a requisite skill 
+or qualification or experience; 
+e) the products were manufactured, produced, processed or 
+reconditioned at a particular time; 
+f) the products or services have any sponsorship, approval, 
+endorsement, performance, characteristics, accessories, uses or 
+benefits; 
+ 
+
+ 
+ 
+g) the products are new or reconditioned or have been in use for a 
+particular period of time only; 
+h) the seller or producer of products or provider of service has any 
+sponsorship, approval, endorsement or affiliation; 
+i) the products or services are necessary for somebody's a well-
+being. 
+j)  concerns the existence, exclusion or effect of any condition, 
+guarantee, right or remedy; and 
+k) concern the place of origin of products. 
+22. 
+Prohibition on bait advertisement. (1) No person shall 
+advertise promotion of services through lottery or attracting the 
+consumers for additional expenditure by way of reward or award in lieu 
+thereof except for the charges for his original product. 
+ 
+a) does not intend to offer for supply; 0r 
+b) does not have reasonable grounds for believing that they 
+can be supplied at the price for a period that is, and in 
+quantities that are, reasonable having regard to the nature 
+of the market in which the person carried on business and 
+the nature of the advertisement. 
+(2) Any person who has advertised products or services for 
+supply at a specified price shall offer such products or services, for 
+supply at that price for a period that is, and in quantities that are 
+reasonable having regard to the nature of the market in which the 
+person carriers on business and the nature of the advertisement. 
+PART-VI 
+THE POWERS OF THE AUTHORITY 
+ 
+23. 
+Powers of Authority. (1) Any person may file a complaint for 
+violation of the provisions of sections 11, 16, 18 and 19 before the 
+Authority who, on being satisfied that such is the case, fine the violator 
+that may, extend to fifty thousand rupees and which may be recovered 
+as arrears of land revenue. 
+ 
+(2) The Authority may file a claim for declaring a product 
+defective under section 4, 5, 6, 7, or 8, or service as faulty or defective 
+under section 13 without proof of any damage actually suffered by a 
+consumer but likely to be suffered keeping in view the general standard 
+of that service. 
+(3) 
+The Authority may file a claim before the Consumer 
+Court for declaring any act on the part of any person as being in 
+contravention to Part IV of this Act without proof of any damage 
+actually suffered but likely to be suffered due to the said contravention. 
+(4) 
+The Authority on receipt of a complaint or a 
+ 
+
+ 
+ 
+reference from the Consumer Protection Councilor or on his own 
+motion may hold an inquiry as to defects in products or services or 
+practices which contravene any of the provisions of this Act. No prior 
+notice shall be required to be given to a manufacturer or provider of 
+services for the 'purposes of holding an inquiry. 
+(5) 
+The Authority, while holding an inquiry, may direct the 
+police or any other officer or Authority of Government to gather such 
+evidence as it deems necessary or to perform function in accordance 
+with the law which have an impact on the inquiry. 
+(6) 
+The Authority may, delegate it’s any Powers conferred 
+on him by or under this Act shall, in relation to such matters and subject 
+to such conditions, if any, as may be specified in the direction, be 
+exercisable also by such Officer or authority subordinate to him or 
+subordinate to Government as may be specified in the direction; and 
+may at any time revoke or vary such a delegation. 
+Provided that no such delegation shall be deemed to divest the 
+Authority of all or any of his powers, duties or functions and he may if 
+he thinks fit exercise such powers, duties or functions, notwithstanding 
+the fact that he has so delegated them. 
+(7) 
+Any person aggrieved by the order passed under sub-
+section (1) may file an appeal before Government within thirty days of 
+such order. 
+ 
+24. 
+Powers of Government. (1) Government may, by general or 
+special order and subject to such conditions as may be prescribed, 
+exercise all or any of the powers conferred upon the Authority under 
+this Act except the power of imposition of fine under section 23(1). 
+ 
+(2) Government may, by General or Special order and subject 
+to such conditions may be prescribed delegate its powers to Minister 
+In-charge and Secretary, Supply and Prices Department. 
+(3) 
+Government by notified order delegate all or any 
+powers of the Authority in relation to such matters and subject to such 
+condition, if any as specified in the notification be exercisable also by 
+such officer subordinate to it and may at any time revoke or vary such 
+delegation. 
+Provided that no such delegation shall deem to divers the 
+original authority of all or any its power, duties, functions mandated 
+under this Act. 
+PART-VII 
+CONSUMER PROTECTION COUNCIL 
+ 
+25. 
+Consumer Protection Council. (1) Government shall set up a 
+Consumer Protection Council in the Province. 
+ 
+(2) Government may set up Consumer Protection 
+ 
+
+ 
+ 
+Councils in all districts which shall, report to the Provincial Consumer 
+Protection Council. 
+(3) 
+The Consumer Protection Councils shall have such 
+other functions as may be designed to them by Government by 
+notification in the official Gazette. 
+(4) 
+The Provincial Consumer Protection Council shall 
+gather such information and data as may be necessary in order to 
+remove unreasonably dangerous products and faulty and defective 
+services from trade or commerce with the approval provided by 
+Government. 
+(5) 
+Each Consumer Protection Council shall have an 
+adequate representation of consumers and associations of trade, 
+industry and service, as the case may be, duly registered under the law 
+for the time being in force: provided that the representation of 
+consumers on the Council, other than any exofficio members, shall not 
+be less than fifty percent of its total membership. 
+PART-VIII 
+DISPOSAL OF CLAIMS AND ESTABLISHMENT OF 
+CONSUMER COURTS 
+ 
+26. 
+Filing of Claims. A claim for damages arising out of 
+contravention of any provisions of this Act shall be filed before a 
+Consumer Court set up under this Act. 
+ 
+27. 
+Establishment of Consumer Courts. (1) Government shall, by 
+notification, establish one or more separate Consumer Courts in each 
+District to exercise jurisdiction and powers under this Act. 
+ 
+ 
+(2) 
+A Consumer Court shall be presided over by a 
+Judicial Magistrate. 
+(3) 
+The terms and conditions of service of Judicial 
+Magistrate appointed under sub-section, (2) shall be such as may be 
+prescribed. 
+28. 
+Jurisdiction of Consumer Courts. Subject to the provisions 
+of this Act, the Consumer Court shall have jurisdiction to entertain 
+complaints within the local limits of whose jurisdiction- 
+(a) 
+the defendant or each of the defendants, where there are 
+more than one, at the time of filling of the claim, actually 
+and voluntarily resides or carries on business or 
+personally works for gain; or 
+(b) 
+any of the difference where there are more than one, at 
+the time of the filling of the claim, actually and 
+voluntarily resides, or carries on business, or personally 
+works for gain: provided that in such a case the 
+permission is granted by the Consumer Court or the 
+defendants who do not reside, or carry on business, or 
+personally work for gain, as the case may be, acquiesce 
+in such institution; or 
+ 
+
+ 
+ 
+(c) 
+the cause of action wholly or in part arises. 
+29. 
+Settlement of Claims. (1) A consumer who has suffered 
+damage, or Authority in other cases, shall, by written notice, call upon 
+a manufacturer or provider of services that a product or service is 
+defective or faulty, or the conduct of the manufacturer if service 
+provider is in contravention of the provisions of this Act and he should 
+remedy the defects or give damages where the consumer has suffered 
+damage, or cease to contravene the provisions of this Act. 
+(2) 
+The manufacturer or service provider shall within 
+fifteen days of the receipts of the notice, reply, thereto. 
+(3) 
+No claim shall be entertained by a Consumer Court 
+unless the consumer or the Authority has given notice under sub-
+section: (1) and provided proof that the notice was duly delivered but 
+manufacturer or service provider has not responded thereto. 
+(4) 
+A claim by the consumer or the Authority shall be filed 
+within thirty days of the arising of the cause of action: 
+Provider that the Consumer Court, having jurisdiction to hear the 
+claim, may allow a claim to be filed after thirty days within such time 
+as it may allow if it is satisfied that there was sufficient cause for not 
+filing the complaint within the specified period: 
+Provided further that such extension shall not be allowed beyond a 
+period of sixty days from the expiry of the warranty or guarantee period 
+specified by the manufacturer or service provider and if no period is 
+specified one year from the date of purchase of the products or 
+providing of service. 
+30. 
+Settlement at pretrial stage. Any party to the dispute may, at 
+the pre-trial stage,3[at any stage of trial] make a firm written offer of 
+settlement stating the amount offered for settlement and if the offer is 
+accepted by the opposing party, the Consumer Council  4[Consumer 
+Court] shall pass an order in terms of the settlement: 
+ 
+Provided that notwithstanding anything constrained in any other law 
+for the time being in force, the party refusing the offer of settlement it 
+shall pay actual costs of litigation including lawyer's fees in case the 
+final order of the Consumer Court is passed against that party. 
+Provided further that the Court’s approval regarding settlement shall 
+be required in the following matters:- 
+i. 
+claims of a minor; 
+ii. 
+claims of a legally incapacitated person; and 
+iii. claims involving collective rights. 
+31. 
+Procedure on receipts or complaint. (1) The Consumer 
+Court shall, on receipt of claim if it relates to any products- 
+a) forward a copy of the claim to the defendant mentioned in the 
+claim directing him to file his written statement within a period 
+of fifteen days or such extended period not 
+ 
+ 
+3 Words Subs. by Sindh Act No. XXIX of 2023 S. 3 dated 11th August, 2023 
+4 Words Subs. by Sindh Act No. XXIX of 2023 S. 3 dated 11th August, 2023 
+
+ 
+ 
+exceeding fifteen days; 
+b) where the defendant, on receipt of claim referred to him under 
+clause (a), denies or disputes the allegations contained in the 
+claim, or omits or fails to present his case within the time 
+specified, as the case may be, the Consumer Court shall 
+proceed to settle the consumer dispute in the manner specified 
+hereafter; 
+c) where the claimant alleges that products are defective and do 
+not conform to the accepted industry standards, the Consumer 
+Court may decide the dispute on the evidence relating to the 
+accepted industry standard and by inviting expert evidence in 
+this regard; 
+d) where the dispute cannot be determined without proper 
+analysis or test of products, the Consumer Court shall obtain 
+sample of the products from the complainant, seal it and 
+authenticate it in the manner prescribed and refer the sample to 
+a laboratory along with a direction to make analysis or test; 
+whichever may be necessary, with a view to finding out if such 
+products suffer from any defect and to report its finding to the 
+Consumer Court within a period of thirty days of the receipt of 
+the reference or within such period as may be extended, not 
+exceeding fifteen days by the Consumer Court; and 
+e) the Consumer Court may require the claimant to deposit to the 
+credit of the Consumer Court such fees as may be specified, for 
+payment to the laboratory for carrying out the necessary 
+analysis or test and the fee so deposited by the claimant shall 
+be payable by the defendant if the test or analysis support the 
+version of the claimant. 
+(2) The Consumer Court shall, if the claim relates to any 
+services:- 
+(a) forward a copy of such claim to the defendant directing 
+him to file his written statement within a period of fifteen days of such 
+extended period not exceeding fifteen days as may be granted by the 
+Consumer Court; and 
+(b) on receipt of the written statement of the defendant if any, 
+under clause (a), proceed to settle the dispute on the basis of evidence 
+produced by both the parties: 
+Provided that if the defendant does not deny or dispute the 
+allegations made in the complaint or fails to present his case within the 
+specified period, the dispute shall be settled on the basis of the evidence 
+brought by the claimant. 
+(3) For the. purposes of this section, the Consumer Court shall 
+have the same powers as are vested in Civil Court under the Code of 
+Civil Procedure, 1908 (Act V of 1908), while trying a suit, in respect 
+of the following matters, namely:- 
+(a) the summoning and enforcing attendance of 
+ 
+
+ 
+ 
+any defendant or witness and examining him 
+on oath; 
+(b) 
+the discovery and production of any material 
+object which may be produced as evidence. 
+(c) 
+the receiving of evidence or affidavits; 
+(d) issuing of any commission for the examination 
+of any matter; or 
+(e) 
+any other matter which may be prescribed; 
+(4) 
+Every proceeding before the Consumer Court shall be 
+deemed to be a judicial proceeding within the meaning of sections 193 
+and 228 of the Pakistan Penal Code, 1860 (Act XLV of 1860) and 
+section 195 and Chapter XXXV of the Code of Criminal Procedure, 
+1898 (Act V of 1898): 
+Provided that the personal presence of the claimant 
+before the Consumer Court shall not be required till the defendant has 
+put up appearance before it. 
+(5) 
+The Consumer Court shall decide the claim within six 
+months after the service of summons on the respondent. 
+32. 
+Order of Consumer Court. If, after the proceedings conducted 
+under this Act, the Consumer Court is satisfied that the products 
+complained against suffer from any of the defects specified in the claim 
+or that any or all of the allegations contained in the claim about the 
+service provided are true, it shall issue an order to the defendant 
+directing him to take one or more of the following action; namely:- 
+a) to remove defect from the products in question; 
+b) to replace the products with new products description which 
+shall be from any defect; 
+c) to return to claimant the price or, as the case may be, the 
+charges paid by the claimant; 
+d) to do such other things as may be necessary for adequate and 
+proper compliance with the requirements of this Act; 
+e) to pay reasonable compensation to the consumer for any loss 
+suffered by him due to the negligence of the defendant; 
+f) to award damage where appropriate; 
+g) to award actual costs including lawyer's fees incurred on the 
+legal proceedings; 
+h) to recall the product from trade or commerce; 
+ 
+
+ 
+ 
+i) to confiscate or destroy the defective product; 
+j) to remedy the defect in such period as may be deemed fit; or 
+k) to cease to provide the defective or faulty service until it 
+achieves the required standard. 
+33. 
+Penalties. (1) Where a manufacturer fails to perform or in any 
+way infringes the liabilities provide in sections 4 to 8, 11, 13, 14, 16, 18 
+to 22, he shall be punished with imprisonment which may extend to two 
+years or with fine which may extend to hundred thousand rupees or with 
+both in addition to damages or compensation as may be determined by 
+the Court. 
+ 
+(2) Where a defendant or, the claimant fails or omits to comply 
+with any order made by the Consumer Court, such defendant or the 
+claimant shall be punishable with imprisonment for a term not less than 
+one month which may extend to three years, or with fine not less than 
+fifty thousand rupees which may extend to two hundred thousand 
+rupees or with both. 
+34. 
+Appeal. Any person aggrieved by any final order of the 
+Consumer Court may file an appeal in the Sindh High Court 5[District 
+and Sessions Court] within 30 days of such order. 
+ 
+35. 
+Finality of order. Every order of the Consumer Court, if no 
+appeal has been preferred against such order under the provision of this 
+Act, shall become final. 
+ 
+ 
+36. 
+Dismissal of frivolous or vexatious claims. Where a claim is 
+found to be frivolous or vexatious, the Consumer Court shall dismiss 
+the claim and impose fine on the claimant upto an amount not 
+exceeding ten thousand rupees for having willfully instituted a false 
+claim and shall award appropriate compensation to the defendant from 
+the amount of fine so realized. 
+ 
+PART-IX 
+MISCELLANEOUS 
+ 
+37. 
+Aid to the Consumer Court. All agencies of Government shall 
+act in aid of the Consumer Court in the performance of its functions 
+under this Act. 
+ 
+38. 
+Immunity. No suit, prosecution or other legal proceedings shall 
+lie against any functionary under this Act, acting under the direction of 
+the Consumer Council 6[Consumer Court] or Government for anything 
+which is in good faith done or intended to be done under this Act. 
+ 
+ 
+39. 
+Power to make rules. Government may, by notification in the 
+official Gazette, make rules for carrying out the purposes of this Act. 
+ 
+ 
+5 Words Subs. by Sindh Act No. XXIX of 2023 S. 4 11th August, 2023 
+6 Words Subs. by Sindh Act No. XXIX of 2023 S. 3 dated 11th August, 2023 
+
+ 
+ 
+40. 
+Power to remove difficulties. If any difficulty arises in giving; 
+or effect to any of the provisions of this Act, Government may make 
+such order, not inconsistent with the provisions of this Act, as may 
+appear to it to be necessary or expedient for removing such difficulty. 
+ 
+ 
+ 
+ 
+ 
+ 
+BY ORDER OF THE SPEAKER 
+PROVINCIAL ASSEMBLY OF SINDH 
+G.M.UMAR FAROOOQ 
+SECRETARY 
+PROVINCIAL ASSEMBLY OF SINDH 
+ 
+ 
+
+ 
+ 
+ 
+GOVERNMENT OF SINDH AGRICULTURE, SUPPLY & PRICES 
+DEPARTMENT 
+ 
+Karachi dated, the 26th January – 2017 
+ 
+NOTIFICATION 
+ 
+No.SO/(C)/AS&PD/1(5) SCP/2011:- in exercise of the powers conferred by section 39 of 
+the Sindh Consumer Protection Act 2014, (Sindh Act XVII of 2015), the Government of 
+Sindh are pleases to make the following rules namely:- 
+1.  SHORT TITLE AND COMMENCEMENT. 
+(1) These rules may be called the Sindh Consumer Protection Rules 2017.  
+(2) These rules shall come into force at once. 
+2.         DEFINITIONS. 
+(1) In these rules, unless the subject otherwise requires- 
+(a) “Act” means the Sindh Consumer Protection Act, 2014: 
+(b) “Court” means the Consumer Protection Court established under section 27 of the Act. 
+(c) “Defendant” means a person or an entity against whom a claim has been field under the 
+Act or who has been accused of any contravention of the provisions of Act. 
+(d) “District Council” means a District Consumer Protection Council established under the 
+Act: and 
+(e) “Inspector” means an Inspector appointed or authorized by Authority to perform such 
+functions and exercise such power as many be assigned to him by it: and 
+(f) “Provincial Council” means the Provincial Consumer Protection Council set up under 
+Rule 19. 
+(2) The words and expressions used but not defined in these rules shall have the 
+same meaning as assigned to them in the Act. 
+3.  COMPLAINTS PRIVATE PERSON TO THE AUTHORITY. 
+(1)       A person may file a complaint for violation of sections 11, 16, 18 and 19 
+of the Act, to the Authority which shall inquire into substance of the complaint and 
+collect such evidence as it deems necessary. 
+(2) A police officer or any other officer or authority of Government shall assist the 
+Authority in collection of information or evidence. 
+(3) If the Authority is satisfied that sufficient materials is available to prove any 
+violation of the provisions of sections 11, 16, 18 and 19 of the Act, it shall issue notice 
+to the defendant and afford him an opportunity of being heard before passing an order 
+
+ 
+ 
+in this behalf. 
+(4) If the notice has been served upon the defendant and he fails to appear before the 
+Authority, the Authority may proceed ex-parte and impose fine on the defendant on 
+the basis of materials available on the record. 
+4.        CASES TO BE INQUIRED INTO BY AUTHORITY. 
+(1) The Authority, on receipt of a complaint or reference from the 
+Provincial Council or on its own motion, may hold an inquiry as to defect in a 
+product or services or practices which contravene any of the provisions of the Act. 
+(2) No prior notice shall be required to be given to a manufacturer or provider 
+of services for the purposes of holding an inquiry, but the Authority may give notice, 
+if it deems appropriate. 
+(3) In an inquiry, the Authority may follow such procedure as it deems 
+appropriate in the peculiar facts and circumstances of a case. 
+5.         PROCEDURE IN CASE OF DEFECTIVE PRODUCTS. 
+(1) If the Authority is enquiring about the existence of a defective 
+product, it shall examine the following aspects of the product:- 
+(a)       has the manufacturer set some standards with regard 
+to the product;  
+(b)       does the product adhere to an express warranty; and 
+(c)       is the product defective due to any other cause. 
+(2) In determining whether the product adheres to manufacturer’s 
+specifications or warranty, the Authority may rely on the statement of an 
+expert analyst or a panel of expert analysis. 
+(3) In determining whether a product is defective due to any other cause, 
+the Authority shall consider any defect in design or defect because of inadequate 
+warning in accordance with sections 6 or 7 of the Act. 
+6.         PROCEDURE IN CASE OF DEFECTIVE SERVICES. 
+(1) if the Authority is enquiring about the existence of a defective service, it shall 
+examine the following aspects of services:- 
+(a) is the provision of services subject to statutory or professional standards;  
+(b) deos the services carry an express warranty; 
+(c)  is the equipment used by the service provider of satisfactory standards and quality; 
+and 
+   (d) does the service  provider possess adequate capacity and qualifications to 
+
+ 
+ 
+deliver the services. 
+(2) In determining whether a service is defective because of lack of adherence to any 
+professional or statutory standards or otherwise, the Authority may rely on the evidence 
+of an expert or a panel of experts. 
+7.         PROOF OF MANUFACTURE BY THE AUTHORITY. 
+(1) If a manufacturer disowns the product or is likely to disown the product or 
+when situation so requires, the Authority may direct as inspector to obtain a sample of the 
+product. 
+(2) The inspector, when so directed, shall obtain three samples of the product from 
+market in the presence of two persons and shall place a mark and seal on each sample. 
+(3) The persons present and the person from whom a sample is taken shall sign and 
+put the thumb impression on the samples. 
+(4) The Authority, in case the cost of the product is high may require only one 
+sample to be taken. 
+(5) The Inspector shall send the sealed sample or samples to a laboratory or 
+warehouse as directed by the Authority. 
+(6) The manufacturer or the distributor or the retailer shall provide sample to the 
+Inspector and in case of refusal, the Inspector may seek the help of police or any other 
+appropriate authority to obtain the sample. 
+(8) The Inspector shall, if possible, pay the market price of the sample. 
+(9) The Authority or Council shall bear the cost of buying, sealing, and mailing of a sample 
+and shall pay the fee for examination of sample. 
+8.         SUPPORT TO AUTHORITY IN COLLECTION OF EVIDENCE. 
+(1) All Government authorities shall provide such support and information to the 
+Authority as it may require. 
+(2) If the Authority requires certain information from a person, he shall 
+provide the same in writing within a specified period. 
+(3) The Authority may request the Court for issuance of search warrants for 
+authorizing an Inspector, police officer or any other functionary of Government to enter 
+and search any premises for the purpose of collection of evidence stating in writing the 
+nature of the evidence and the reasons to believe that such evidence is available at the 
+premises. 
+(4) If the Authority apprehends that the evidence is likely to be destroyed 
+
+ 
+ 
+during the course of issuance of search warrants by the Court, it may issue the 
+search warrants stating in writing the reasons for doing so and submit a report to 
+Presiding Officer of the Consumer Court in this regard, at the earliest. 
+(5) The Inspector or police officer shall provide a copy of the search 
+warrant issued by the Court to the person in occupation of the premises or paste 
+the copy of search warrant in a conspicuous place where the person in occupation 
+of the premises is either unavailable or unwilling to accept service. 
+9.         ORDER OF THE AUTHORITY. 
+The Authority shall sign the order, date it and may direct that the same shall be 
+communicated to any person free of charge. 
+10.       APPEAL AGAINST THE ORDER OF THE AUTHORITY. 
+(1) Any person aggrieved from an order of the Authority, passed under section 
+23(1) of the Act, may, within thirty days of the order, present a memorandum of appeal 
+against the order to the Secretary to the Government, Agriculture, Supply and Prices 
+Department, in person or through any other means of communication: 
+Provided that where the Authority is the Secretary to Government, Agriculture 
+Supply and Prices Department, the aggrieved person shall prefer an appeal for review: 
+(2) The Secretary to Government, Agriculture Supply and Prices Department 
+may, on receipt of memorandum of appeal, review the appeal, call for such record and 
+after perusal of such record and if necessary hearing the person concerned, make such 
+order as deemed fit. 
+(3) A memorandum of appeal shall be in writing, signed by the appellant and 
+shall set forth concisely the grounds of appeal without any argument or narrative and 
+such grounds shall be numbered consecutively. 
+(4) A memorandum of appeal shall be accompanied by the certified copy of the 
+order of the Authority appealed against and such of the documents as may be required to 
+support the grounds of appeals. 
+(5) When the appeal is presented after the expiry of the period of limitation as 
+specified in the Act, memorandum of appeal shall be accompanied by an application that 
+he has sufficient cause for not preferring an appeal within the period of limitation. 
+(6) The appellate authority may exercise all or any of the powers of the Authority 
+under the Act of the rules. 
+(7) The appellate authority shall sign and date the order and may direct that the 
+
+ 
+ 
+order shall be communicated to any person free of charge. 
+11.       CLAIMS ON BEHALF OF THE PUBLIC. 
+(1) If as a result of the inquiry, the Authority is satisfied that a contravention of 
+the Act has taken place interest is affected or likely to be affected, the Authority shall 
+give notice to the manufacturer or provider of services as required under section 29(1) of 
+the Act to remedy the defects and to pay damages where loss has already been caused to 
+any consumer. 
+(2) If the manufacturer or provider of service is unwilling to remedy the defects 
+or pay damages to an aggrieved person, the Authority may file a claim in the Court on 
+behalf of the public. 
+12.       PLACE OF SITTING ETC. 
+(1) The Court shall be located at the headquarters of the District and where the 
+Government decides to establish a Court having jurisdiction over more than one District, 
+it shall notify the place of sitting and jurisdiction of the Court. 
+(2) Government shall specify the official seal and emblem of the Court. 
+(3) Government shall appoint such staff as many be necessary to assist the Court 
+in its day to day work and performance of such other functions as are provided under 
+these rules. 
+13.       FORM OF CLAIM. 
+(1) A consumer or Authority may file a claim in the Court by submitting an 
+application and a person well conversant with the facts of the claim shall sign and 
+verify the contents of the application on solemn affirmation or on oath. 
+(2) The application shall contain precise particulars of the claimant, 
+defendant, brief facts giving rise to the cause of action and the relief which the 
+claimant seeks from the Court. 
+(3) The claimant shall append with the claim, all documentary evidence in 
+support of his claim including notice under section 29(1) of the Act, proof of 
+delivery of notice and reply of the notice, if any. 
+(4) An aggrieved person, the Authority or an authorized agent shall submit a claim 
+in the Court, in person or through any means of communication. 
+(5) The Court shall not entertain any anonymous or pseudonymous claim. 
+
+ 
+ 
+14.       DEFENCE ETC. 
+(1) The Court shall follow the procedure contained in section 31 of the Act after 
+the receipt of the claim. 
+(2) If the defendant admits the allegation made by the claimant, the Court shall 
+decide the claim on the basis of the merit of the case and documents available on the 
+record. 
+(3) If during the proceedings conducts under section 31, the Court fixes a date for 
+hearing of the parties, the claimant and defendant or their authorized agents shall appear 
+before the Court on such date of hearing or any other date to which hearing is adjourned. 
+(4) If the claimant or his authorized agent fails to appear before the Court on such 
+day, the Court may dismiss the claim for default, decide it on merit or adjourn it. 
+(5) If the defendant fails to appear on the day of hearing the Court may decide the 
+claim ex-parte on the basis of documents available on the record or adjourn it. 
+(6) The Court may exercise the powers of a civil court under the Code of Civil 
+Procedure 1908 (XX of 1908) for setting aside an ex-parte order or restoration of 
+a claim dismissed in default. 
+(7) The Court may, on the reasonable grounds at any stage, adjourn the 
+hearing of the claim as such but not more than one adjournment shall ordinarily be 
+given and the claim should be decided as far as possible within one hundred and 
+eighty days from the date of notice received by the defendant. 
+15.       ANALYSIS OF THE PRODUCT. 
+(1) The Court may direct the claimant to provide more than one sample of the 
+product. 
+(2) If a sample has been sent to a laboratory by the Court, the laboratory shall 
+send a copy of a final report along with method of analysis or test used, to the Court, the 
+claimant and the defendant. 
+(3) If any of the party disputes the correctness of the findings or the method 
+of analysis of the laboratory, it shall submit its objections in writing to the Court 
+within fifteen days of receipt of the report. 
+16.       PROOF OF MANUFACTURE BY THE COURT. 
+(1) The Court may direct an Inspector or an officer of the Court to obtain a sample 
+of the product complained against, when the defendant disowns the product. 
+(2) The Inspector shall obtain three samples of the product from market in the 
+
+ 
+ 
+presence of two persons, place a mark and seal on each sample. 
+(3) The persons present and the person from whom a sample is taken shall sign 
+and put the thumb impression on the samples. 
+(4) The Court may, if the cost of the product is high, require only one sample to 
+be taken. (5) The Court may direct that the Inspector shall send the samples to a 
+laboratory or warehouse. 
+(6) The manufacturer, distributor or the retailer shall provide samples to the 
+inspector and in case of refusal, the Inspector may seek the help of police or any other 
+appropriate authority to obtain samples. 
+(7) If possible, the Inspector shall pay the market price of the samples. 
+(8) The claimant shall bear the cost of buying, sealing, mailing samples and 
+laboratory fees. 
+17.       ORDER OF THE COURT.- 
+The Presiding Officer of the Court shall sign the order, date it and may direct that 
+the same shall be communicated to the parties free of charge. 
+18.       APPEAL AGAINST THE ORDER OF THE COURT.- 
+(1) Any person aggrieved by the final order of the Court may, within thirty days 
+of the passing of the order, file an appeal in the Sindh High Court in accordance with 
+Rules of Procedure of the Sindh High Court. 
+(2) A memorandum of appeal shall be accompanied by the certified copy of the 
+order of the Court appealed against and such of the documents as may be required to 
+support the grounds of appeal. 
+(3) When the appeal is presented after the expiry of the period of limitation as 
+specified in section 34 of the Act, the memorandum of appeal shall be accompanied by 
+an application that he has sufficient cause for not preferring the appeal within the period 
+of limitation. 
+(4) The Sindh High Court may exercise all or any of the powers of the Court 
+under the Act or the rules, in respect of the appeal pending before it. 
+19.       CONSTITUTION OF THE PROVINCIAL COUNCIL.- 
+(1) Government shall, by notification in the official gazette, set up Provincial 
+Council in the Province of Sindh, which shall consist of the Chairman and officials as 
+well non-official members as follows:- 
+
+ 
+ 
+1. Director General 
+Bureau of Supply & Prices 
+Government of Sindh. 
+Chairperson 
+2. 
+OFFICIAL MEMBERS 
+Commissioner of Karachi Division 
+Member 
+3. Representative from Industries Department 
+Member 
+4. Representative from Food Department 
+Member 
+5. Representative from Labor Department 
+Member 
+6. Representative from Health Department 
+Member 
+7. Representative from Agriculture Department 
+Member 
+8. Director, Bureau of Supply & Prices or 
+ 
+(Member/Secretary) 
+NON-OFFICIAL MEMBERS 
+9.    President, Karachi Chamber of                              Member 
+Commerce and Industry 
+ 
+10.  Four persons to be nominated by Government       Member 
+ 
+ 
+  
+who have worked in the area of consumer protection and industrial standards and who are 
+not public officials or elected representatives. 
+ 
+11.  Heads of four non-profit organizations                  Members 
+ 
+ 
+ 
+  
+dealing with consumer protection to be nominated by Government preferably certified by 
+the Pakistan Centre for Philanthropy, Islamabad; 
+ 
+12.  Four female social workers to be nominated         Members 
+ 
+ 
+ 
+  
+by Government. 
+ 
+(2) A non-official member, other than the President Chamber of Commerce 
+and Industry, shall hold office for a period of three years and shall be eligible for re-
+
+ 
+ 
+appointment. 
+(3) The Council may co-opt any other person as member including a 
+representative of the Pakistan Standard and Quality Control Authority but such 
+member shall not have right to vote in the meeting of the Provincial Council. 
+(4) The Secretary of the Provincial Council may, with the approval of the 
+Chairperson, call a meeting of the Provincial Council. 
+(5) Half of the total membership shall constitute the quorum for a meeting of 
+the Council, a fraction being counted as one. 
+(6) The Chairperson shall preside a meeting of the Provincial Council and 
+in his absence, the members present shall elect the number to preside the meeting. 
+(7) The decision of the Provincial Council shall be taken by majority of votes 
+and in case of tie, the Presiding Member shall have casting vote. 
+(8) If a vacancy is caused by resignation or removal of a non-official member, 
+Government shall fill the vacancy by fresh appointment within thirty days of the 
+occurring of such a vacancy. 
+20.       TERMS AND CONDITIONS OF MEMBERSHIP. 
+(1) A member of the Council shall not take part in any proceedings of the 
+Provincial Council if he has any interest which is or may be in conflict with the interest 
+of the Provincial Council. 
+(2) No person shall be appointed as non-official member if he has been convicted 
+of any office involving moral turpitude or has been held to be liable in a proceeding 
+under the Act. 
+(3) No person shall be appointed as a non-official member, or remain in office, 
+if he is or has become physically or mentally incapable of performing his functions. 
+(4) A non-official member may resign by addressing a resignation under his 
+hand to 
+Government. 
+(5) Government may, for the reasons to be recorded in writing, remove a non-
+official member during his tenure as member. 
+21.       FUNCTIONS OF THE COUNCIL. 
+The Provincial Council shall - 
+(i)                     gather such information and data as may be necessary in order to 
+remove defective products and services from trade or commerce 
+
+ 
+ 
+and submit reference to the Authority; 
+(ii)                   examine the work being done by the District Councils and ensure 
+that the District Councils are performing functions in accordance 
+with the Act, rules and instructions of Government, issued from 
+time to time. 
+(iii)                  review the reforms proposed by the District Councils, assess the 
+feasibility for implementation of the reforms and suggest 
+improvements; 
+(iv)           advise Government and Authority on matters relating to protection of 
+consumers; 
+(v)                   increase awareness about consumer protection issues; 
+ 
+(vi)                  issue information booklets on standards of products and services 
+in different areas of Pakistan and some selected areas of the world; 
+(vii)                 establish and manage a laboratory for carrying out tests of the 
+products or equipment of the services; and 
+(viii)               set guidelines and standards for the laboratories managed, recognized 
+or registered by the Council. 
+22.       CONSTITUTION OF THE DISTRICT COUNCILS:- 
+(1)       Government may be notification in the official gazette, set up a District 
+Council in each District. 
+(2)       A District Council shall comprise of Chairman and official as well 
+as non-official members, which shall consist of the following:- 
+1.         Deputy Commissioner of concerned District             Chairman 
+OFFICIAL MEMBERS 
+ 
+2. 
+Assistant 
+Controller 
+Weights & Measures 
+Government of Sindh; 
+Member 
+3. 
+Representative from 
+Industries Department; 
+Member 
+4. 
+Assistant Director 
+Bureau of Supply & Prices 
+Government of Sindh; 
+(Member / Secretary) 
+ 
+
+ 
+ 
+NON-OFFICIAL MEMBERS 
+5. 
+Head of the District Chamber of 
+Commerce & Industry; 
+Member 
+6. 
+Three prominent citizens to be nominated 
+by the Deputy Commissioner; 
+ 
+Members 
+7. 
+Two female Social Workers to be nominated 
+by the District Officer Social Welfare Department; 
+ 
+Members 
+ 
+(3)       A  non-official  member  may  resign  by  submitting  his  resignation  
+to  the Chairperson of the District Council. 
+(4)       II  a  non-official  member  fails  to  attend  three  consecutive  meetings  
+without obtaining leave of absence from the Chairperson of the District Council, 
+such member shall cease to be the member of the District Council. 
+(5)       The Secretary of the District Council may, with the approval of the 
+Chairperson, call a meeting of the District Council. 
+(6)       Six members shall constitute the quorum for a meeting of the District 
+Council and the Chairperson shall preside a meeting of the District Council. 
+(7)       A member of the District Council shall not take part in any proceedings 
+of the District Council if he has any interest which is or may be in conflict with the 
+interest of the District Council. 
+(8)       A non-official member, other than the head of the local Chamber 
+of Commerce and Industry, shall hold office for a period of three years and shall be 
+eligible for re-appointment. 
+(9)       Government  may  on  the  recommendation  of  the  Chairperson  of  
+the  District Council and for the reason to be recorded in writing, remove a 
+non-official member of the District Council during his tenure as member. 
+23.       FUNCTIONS OF THE DISTRICT COUNCILS. 
+The District Council shall, 
+(i)   recommend reform to the Authority through the Provincial Council for 
+furthering the object and purposes of the Act and rules made there 
+under; 
+(ii)      create awareness among consumers against the marketing of 
+products which are hazardous to life and property; 
+(iii)    provide information an access to information regarding products 
+
+ 
+ 
+and services available in the District to the consumer; 
+(iv)     create awareness among public regarding access to products and 
+services, and protection from any unfair, illegal or dangerous 
+practices prevalent in the market; 
+(v)     assist in the exchange of information, views and 
+recommendations 
+between 
+manufacturers, 
+suppliers, 
+consumers and Government; 
+(vi)      perform any other function as directed by the Government or the Council; 
+and 
+(vii)     assist the council in removing defective products and services from the 
+market. 
+24.      REGISTRATION AND CATOGORIZTAION OF LABORATORIES. 
+(1)       The Provincial Council may register a Laboratory for conducting test 
+of product equipment. 
+(2)       The Provincial Council may recognize a Laboratory for the purposes 
+of test of product or equipment. 
+(3)       The Provincial Council may categorize specific laboratories to carry 
+out any one or more categories of test based on specialized capacity of the 
+laboratory and its proposed cost for carrying out the analysis. 
+(4)       The Provincial Council may, for the reasons to be recorded in writing 
+de-register or de- recognizes a laboratory. 
+25.       PUBLIC DISCLOSURE. 
+After pronouncement of the final order by the court, the Council shall 
+obtain a copy of the order and provide easy access of information to the consumers 
+relating to product and services. 
+ 
+(DR. SAEED AHMED MANGREJO) 
+SECRETARY 
+AGRICULTURE, 
+SUPPLY 
+& 
+PRICES DEPARTMENT 
+ 
+No. SO(C)/AS&PD/1(5)/SCPA/2011/334                      Karachi, dated the 26th January 
+2017 
+
+ 
+ 
+A copy is forwarded the Secretary Law Department, Government of Sindh with the 
+request to send it for publication in the next issue of the Sindh Government Gazette, 
+under intimation to this Department  
