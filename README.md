@@ -174,24 +174,24 @@ Essentially, any regulated domain where accuracy, traceability, and safety are p
 ## 📸 System Screenshots
 
 ### Home Interface
-![Home](Screenshots/Home.png)
+![Home](screenshots/Home.png)
 
 ### Tenant Rights (Punjab Rent Law)
-![Tenant](Screenshots/Tenancy_1.png)
+![Tenant](screenshots/Tenancy_1.png)
 
-![Tenant](Screenshots/Tenancy_2.png)
+![Tenant](screenshots/Tenancy_2.png)
 
 ### Employment Law (Unpaid Wages)
-![Employment](Screenshots/Labour_1.png)
+![Employment](screenshots/Labour_1.png)
 
-![Employment](Screenshots/Labour_2.png)
+![Employment](screenshots/Labour_2.png)
 
 ### Consumer Protection
-![Consumer](Screenshots/Consumer_1.png)
+![Consumer](screenshots/Consumer_1.png)
 
-![Consumer](Screenshots/Consumer_2.png)
+![Consumer](screenshots/Consumer_2.png)
 
 ### Debug
-![Debug](Screenshots/Debug_1.png)
+![Debug](screenshots/Debug_1.png)
 
-![Debug](Screenshots/Debug_2.png)
+![Debug](screenshots/Debug_2.png)
