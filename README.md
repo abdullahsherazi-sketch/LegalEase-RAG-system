@@ -148,13 +148,6 @@ ollama run qwen2.5:3b
 4. Launch the app
 streamlit run src/app.py
 
-
-Open in browser:
-
-http://localhost:8501
-
-http://192.168.100.45:8501/
-
 ## 🏁 Why This Project Matters?
 
 This is not a chatbot. It is a sophisticated legal Retrieval-Augmented Generation (RAG) system designed with appropriate safeguards for real-world application. 
